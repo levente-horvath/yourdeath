@@ -1,1 +1,1 @@
-calculates wehn you die
+calculates when you die
