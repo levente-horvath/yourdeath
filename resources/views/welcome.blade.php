@@ -12,7 +12,7 @@
 
               <div>
                 <h1 class="block text-m font-medium leading-9 text-black">Your information</h1>
-                <p class="mt-1 text-xs leading-6 text-gray-600">for visualizing the passing of time</p>
+                <p class="mt-1 text-xs leading-6 text-gray-600">for visualizing the passing of time (based on WHO data)</p>
 
 
 
